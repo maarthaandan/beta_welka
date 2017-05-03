@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/swaglord42/.android/build-cache/58a15d26831ca26acd7a180a021aee4a4b59de03/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="/Users/swaglord42/AndroidStudioProjects/googleqr/android-vision/visionSamples/barcode-reader/app/build/intermediates/pre-dexed/debug/classes_0727f11fb2c27410f0fc5f269d73781b0973fc59.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/swaglord42/.android/build-cache/1eafc42701f38e6359727c69ad287788bab91cc9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/Users/swaglord42/AndroidStudioProjects/googleqr/android-vision/visionSamples/barcode-reader/app/build/intermediates/pre-dexed/debug/classes_ce2f6708cfd340fa121a822a203bd1c7bb03b6d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/swaglord42/.android/build-cache/b81c270aa10e320ae4c2b192960f282e61527c6c/output/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/Users/swaglord42/AndroidStudioProjects/googleqr/android-vision/visionSamples/barcode-reader/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_d48eb887582fdd7a98a80a4cd790c9987b5d64f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/swaglord42/.android/build-cache/ce9a69b74f5225c16b2e55646c25ac2805471787/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="/Users/swaglord42/AndroidStudioProjects/googleqr/android-vision/visionSamples/barcode-reader/app/build/intermediates/pre-dexed/debug/classes_de40f693355a13d7d8cedd282486c6ec99cb5103.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/swaglord42/.android/build-cache/b2b7d28a0602e8147b9cc0dc0033bd7611601af2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="670df81539ab71918d49b186598b7eff08ef6563">
+        <dex dex="/Users/swaglord42/AndroidStudioProjects/googleqr/android-vision/visionSamples/barcode-reader/app/build/intermediates/pre-dexed/debug/classes_25bd15a7e2450aa22a814be5cc46d1bf9c80e1a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/swaglord42/.android/build-cache/7d2d47c0860cf076c2a8572d3bab0c9e8088df2a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/Users/swaglord42/AndroidStudioProjects/googleqr/android-vision/visionSamples/barcode-reader/app/build/intermediates/pre-dexed/debug/classes_f94d936d64efc1ca4c47adc074d9a5b4ab42bf98.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/swaglord42/.android/build-cache/1eafc42701f38e6359727c69ad287788bab91cc9/output/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/Users/swaglord42/AndroidStudioProjects/googleqr/android-vision/visionSamples/barcode-reader/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_19692f7e09b696d676a4d5bedc5dad50de1703d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/swaglord42/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/Users/swaglord42/AndroidStudioProjects/googleqr/android-vision/visionSamples/barcode-reader/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.0_0c354ec3bc42b409580c2237a67aa12f4a2536bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/swaglord42/.android/build-cache/973cd12aa6cdb54571d251ea4a325923c2e65201/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="/Users/swaglord42/AndroidStudioProjects/googleqr/android-vision/visionSamples/barcode-reader/app/build/intermediates/pre-dexed/debug/classes_ba8ebb79cea9b63edcda0f4940313145ba0638dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/swaglord42/.android/build-cache/e4fc65bc5134de4827e98f354b3374f5503cd28c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="/Users/swaglord42/AndroidStudioProjects/googleqr/android-vision/visionSamples/barcode-reader/app/build/intermediates/pre-dexed/debug/classes_a395fed28afac7871255ff120a4386e98b91a456.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/swaglord42/.android/build-cache/a232896dc2e3c987446a14a240d8c645c2efde71/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/Users/swaglord42/AndroidStudioProjects/googleqr/android-vision/visionSamples/barcode-reader/app/build/intermediates/pre-dexed/debug/classes_333c89c2780d8b38578cb277a56ce1b391b33f48.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/swaglord42/AndroidStudioProjects/googleqr/android-vision/visionSamples/barcode-reader/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="11ff13a616922156274db77909d4aa96edd7cfc2">
+        <dex dex="/Users/swaglord42/AndroidStudioProjects/googleqr/android-vision/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_59d0b63f9a697f6632e6ecaff37155b2e13cdd39/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/swaglord42/.android/build-cache/b81c270aa10e320ae4c2b192960f282e61527c6c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/Users/swaglord42/AndroidStudioProjects/googleqr/android-vision/visionSamples/barcode-reader/app/build/intermediates/pre-dexed/debug/classes_80811b59dd4025973f2504535c2c78b1e717eb33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/swaglord42/.android/build-cache/1a65876f87fb117c03a7e1d422e849e6af2fb5a6/output/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/Users/swaglord42/AndroidStudioProjects/googleqr/android-vision/visionSamples/barcode-reader/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_ab0f1e29d85a61c80c58854e05bb8b5031bcccc6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/swaglord42/.android/build-cache/c9273a175aed682c6b72a738f4bc248086dfed7e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/Users/swaglord42/AndroidStudioProjects/googleqr/android-vision/visionSamples/barcode-reader/app/build/intermediates/pre-dexed/debug/classes_7136690b70569dcb81525d01f81924ac8d1950ed.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/swaglord42/AndroidStudioProjects/googleqr/android-vision/visionSamples/barcode-reader/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/swaglord42/AndroidStudioProjects/googleqr/android-vision/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b357b186b59528b08da12dc94cde00e7219b96af/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/swaglord42/.android/build-cache/7d2d47c0860cf076c2a8572d3bab0c9e8088df2a/output/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/Users/swaglord42/AndroidStudioProjects/googleqr/android-vision/visionSamples/barcode-reader/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_5c7c90d4575b455bc911f1793cf50b7b5f2bdfbb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/swaglord42/.android/build-cache/59e9c2fea346f7689a69f8c2650717e84b49e436/output/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/Users/swaglord42/AndroidStudioProjects/googleqr/android-vision/visionSamples/barcode-reader/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_d581886992082b1929bf9945ea616241de8f711b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/swaglord42/.android/build-cache/70baefc1ab56d2b83b1129ae53674c71d3418477/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/Users/swaglord42/AndroidStudioProjects/googleqr/android-vision/visionSamples/barcode-reader/app/build/intermediates/pre-dexed/debug/classes_6b8b105ee893d981c3f3d42ab8901fc015466fe5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/swaglord42/.android/build-cache/1a65876f87fb117c03a7e1d422e849e6af2fb5a6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/Users/swaglord42/AndroidStudioProjects/googleqr/android-vision/visionSamples/barcode-reader/app/build/intermediates/pre-dexed/debug/classes_2527cb68ee08e07bcca4a1bd793a648f2ab5b0fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/swaglord42/.android/build-cache/7ece3103e3e50a67bb64bd651f141646c6119e64/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/Users/swaglord42/AndroidStudioProjects/googleqr/android-vision/visionSamples/barcode-reader/app/build/intermediates/pre-dexed/debug/classes_f7ed0dd7f72b7bfb26e5ecea67864d367ed51db6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/swaglord42/.android/build-cache/071ae2576efd772ec636a5f552b773d6b1b33608/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="/Users/swaglord42/AndroidStudioProjects/googleqr/android-vision/visionSamples/barcode-reader/app/build/intermediates/pre-dexed/debug/classes_9df5d1b180e0d113e06785ce4a473b57d4c9b34e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/swaglord42/.android/build-cache/59e9c2fea346f7689a69f8c2650717e84b49e436/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/Users/swaglord42/AndroidStudioProjects/googleqr/android-vision/visionSamples/barcode-reader/app/build/intermediates/pre-dexed/debug/classes_4e96f5406cc5dc3c347147d4f711aa45effb3226.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,7 @@
+#Sun Apr 30 13:00:37 IST 2017
+base.0=/Users/swaglord42/AndroidStudioProjects/googleqr/android-vision/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_59d0b63f9a697f6632e6ecaff37155b2e13cdd39
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/swaglord42/AndroidStudioProjects/googleqr/android-vision/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b357b186b59528b08da12dc94cde00e7219b96af/classes.dex
+base.1=/Users/swaglord42/AndroidStudioProjects/googleqr/android-vision/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b357b186b59528b08da12dc94cde00e7219b96af
+file.0=/Users/swaglord42/AndroidStudioProjects/googleqr/android-vision/visionSamples/barcode-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_59d0b63f9a697f6632e6ecaff37155b2e13cdd39/classes.dex
